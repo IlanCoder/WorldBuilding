@@ -72,3 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Terrain/Textures/Desert_Mat2/T_DesertMat2_normal.uasset
